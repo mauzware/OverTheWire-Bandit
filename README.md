@@ -1,4 +1,4 @@
-# 🏴 OverTheWire: Bandit Walkthrough (Levels 0–33)
+# 🏴 OverTheWire: Bandit Walkthrough (Levels 0 – 33)
 
 Welcome to my personal walkthrough of the **OverTheWire Bandit wargame**, covering Levels 0 to 16. This wargame is designed to teach beginners the fundamentals of Linux, command line usage, and basic hacking techniques. 
 I completed levels 0 to 33 in one session — here’s how I did it.
